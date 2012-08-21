@@ -1,0 +1,4 @@
+# Aliases for .bashrc
+
+export TODOTXT_DEFAULT_ACTION=ls
+alias t='/usr/local/bin/todo.sh -d /home/391874/todo.cfg'
